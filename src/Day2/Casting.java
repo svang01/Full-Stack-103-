@@ -1,3 +1,5 @@
+package Day2;
+
 public class Casting {
     public static void main(String[] args) {
         double num = 112.35;
